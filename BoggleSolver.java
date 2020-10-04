@@ -1,7 +1,9 @@
 /* *****************************************************************************
- *  Name:
- *  Date:
- *  Description:
+ *  Name: Spyros Dellas
+ *  Date: 22-09-2020
+ *  Description: Find all valid words in a Boggle game board, given a dictionary
+ *
+ * Uses an optimized trie on a 26 character alphabet to speed-up the search
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.In;
